@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @exponentielhippy
-- 👀 I’m interested in mathematics and linux adminsts
+- 👀 I’m interested in mathematics and linux adminsys
 - 🌱 I’m currently learning Divergent series and algebraic structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
